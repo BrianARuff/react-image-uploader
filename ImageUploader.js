@@ -1,10 +1,10 @@
 import { useState } from "react";
 
 const ImageUploader = () => {
-  const [image, setImages] = useState(null);
+  const [image, setImage] = useState(null);
   const handleImageUpload = (e) => {
     const url = URL.createObjectURL(e.target.files[0]);
-    setImages(url);
+    setImage(url);
   };
   return (
     <article>
