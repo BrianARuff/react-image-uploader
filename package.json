@@ -1,6 +1,6 @@
 {
   "name": "react-image-upload",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Upload and preview images in your react application",
   "main": "ImageUploader.js",
   "scripts": {
