@@ -1,0 +1,30 @@
+{
+  "name": "react-image-uploader",
+  "version": "1.0.0",
+  "description": "Upload and preview images in your react application",
+  "main": "ImageUploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianARuff/react-image-uploader.git"
+  },
+  "keywords": [
+    "react",
+    "images",
+    "upload",
+    "upload",
+    "images",
+    "upload",
+    "images",
+    "in",
+    "react"
+  ],
+  "author": "Brian Ruff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianARuff/react-image-uploader/issues"
+  },
+  "homepage": "https://github.com/BrianARuff/react-image-uploader#readme"
+}
