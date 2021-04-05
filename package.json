@@ -1,5 +1,5 @@
 {
-  "name": "react-image-uploader",
+  "name": "react-image-upload",
   "version": "1.0.0",
   "description": "Upload and preview images in your react application",
   "main": "ImageUploader.js",
